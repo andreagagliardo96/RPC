@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/beginner_tutorials_listener.dir/src/listener.cpp.o  -o /home/andrea/RPC/catkin_ws/devel/lib/beginner_tutorials/beginner_tutorials_listener 

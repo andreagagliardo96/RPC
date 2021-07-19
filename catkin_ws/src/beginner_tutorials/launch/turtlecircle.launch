@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<launch>
+    <arg name="radius" default="1.0"/>
+    <arg name="speed" default="1.0"/>
+    
+    <node pkg="turtlesim" type="turtlesim_node" name="turtlesim_node"/>
+    <node pkg="beginner_tutorials" type="turtlecircle" name="turtlecircle">
+        <param name="speed" type="double" value="$(arg speed)"/>
+        <param name="radius" type="double" value="$(arg radius)"/>
+    </node>
+</launch>

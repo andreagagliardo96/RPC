@@ -1,0 +1,2 @@
+beginner_tutorials:move_it_homework
+-DCATKIN_DEVEL_PREFIX=/home/andrea/RPC/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/andrea/RPC/catkin_ws/install -G Unix Makefiles
