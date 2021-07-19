@@ -1,0 +1,5 @@
+franka_ros/franka_description
+/home/andrea/ws_panda/devel/.private/franka_description/cmake.lock /home/andrea/ws_panda/devel/./cmake.lock
+/home/andrea/ws_panda/devel/.private/franka_description/share/franka_description/cmake/franka_descriptionConfig.cmake /home/andrea/ws_panda/devel/share/franka_description/cmake/franka_descriptionConfig.cmake
+/home/andrea/ws_panda/devel/.private/franka_description/share/franka_description/cmake/franka_descriptionConfig-version.cmake /home/andrea/ws_panda/devel/share/franka_description/cmake/franka_descriptionConfig-version.cmake
+/home/andrea/ws_panda/devel/.private/franka_description/lib/pkgconfig/franka_description.pc /home/andrea/ws_panda/devel/lib/pkgconfig/franka_description.pc

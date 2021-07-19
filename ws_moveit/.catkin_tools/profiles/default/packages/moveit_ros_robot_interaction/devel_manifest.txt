@@ -1,0 +1,7 @@
+moveit/moveit_ros/robot_interaction
+/home/andrea/ws_moveit/devel/.private/moveit_ros_robot_interaction/cmake.lock /home/andrea/ws_moveit/devel/./cmake.lock
+/home/andrea/ws_moveit/devel/.private/moveit_ros_robot_interaction/share/moveit_ros_robot_interaction/cmake/moveit_ros_robot_interactionConfig-version.cmake /home/andrea/ws_moveit/devel/share/moveit_ros_robot_interaction/cmake/moveit_ros_robot_interactionConfig-version.cmake
+/home/andrea/ws_moveit/devel/.private/moveit_ros_robot_interaction/share/moveit_ros_robot_interaction/cmake/moveit_ros_robot_interactionConfig.cmake /home/andrea/ws_moveit/devel/share/moveit_ros_robot_interaction/cmake/moveit_ros_robot_interactionConfig.cmake
+/home/andrea/ws_moveit/devel/.private/moveit_ros_robot_interaction/lib/libmoveit_robot_interaction.so.1.1.5 /home/andrea/ws_moveit/devel/lib/libmoveit_robot_interaction.so.1.1.5
+/home/andrea/ws_moveit/devel/.private/moveit_ros_robot_interaction/lib/libmoveit_robot_interaction.so /home/andrea/ws_moveit/devel/lib/libmoveit_robot_interaction.so
+/home/andrea/ws_moveit/devel/.private/moveit_ros_robot_interaction/lib/pkgconfig/moveit_ros_robot_interaction.pc /home/andrea/ws_moveit/devel/lib/pkgconfig/moveit_ros_robot_interaction.pc
